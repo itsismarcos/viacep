@@ -4,7 +4,7 @@ Dashboard desktop em Python para consultar CEPs e buscar endereços brasileiros 
 
 O projeto utiliza a API pública do ViaCEP para consultar informações como rua, bairro, cidade, UF, DDD e IBGE de forma rápida e prática.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Consulta de CEP individual
 - Busca por endereço: UF, cidade e logradouro
@@ -13,13 +13,13 @@ O projeto utiliza a API pública do ViaCEP para consultar informações como rua
 - Interface moderna com tema visual personalizado
 - Compatibilidade com Windows
 
-## 🖥️ Tecnologias
+##  Tecnologias
 
 - Python 3
 - CustomTkinter
 - ViaCEP API
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 viacep/
@@ -35,12 +35,12 @@ viacep/
 └── README.md
 ```
 
-## ✅ Requisitos
+##  Requisitos
 
 - Python 3.9 ou superior
 - pip
 
-## 🔧 Instalação
+##  Instalação
 
 1. Clone o repositório:
 
@@ -75,7 +75,7 @@ python -m venv .venv
 pip install customtkinter
 ```
 
-## ▶️ Como executar
+##  Como executar
 
 No diretório do projeto, execute:
 
@@ -83,21 +83,21 @@ No diretório do projeto, execute:
 python main.py
 ```
 
-## 📌 Como usar
+##  Como usar
 
 - Na tela inicial, informe um CEP para realizar a consulta.
 - Na aba "Buscar endereço", informe UF, cidade e logradouro.
 - O histórico ficará disponível para consulta rápida.
 
-## 🧩 Observações
+##  Observações
 
 Este projeto utiliza a API pública do ViaCEP, que pode exigir conexão com a internet para funcionar corretamente.
 
-## 🤝 Contribuição
+##  Contribuição
 
 Contribuições são bem-vindas. Se quiser melhorar a interface, adicionar filtros, exportação de dados ou outros recursos, fique à vontade para abrir uma pull request.
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob licença MIT. Você pode usar, modificar e distribuir livremente.
 
@@ -125,6 +125,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🚀 Status do projeto
+##  Status do projeto
 
 Projeto em desenvolvimento e pronto para uso local como ferramenta de consulta de CEP.
